@@ -1,0 +1,4 @@
+C:\Users\sacek\source\repos\titanic\titanic\obj\Debug\netcoreapp3.1\titanic.csprojAssemblyReference.cache
+C:\Users\sacek\source\repos\titanic\titanic\obj\Debug\netcoreapp3.1\titanic.AssemblyInfoInputs.cache
+C:\Users\sacek\source\repos\titanic\titanic\obj\Debug\netcoreapp3.1\titanic.AssemblyInfo.cs
+C:\Users\sacek\source\repos\titanic\titanic\obj\Debug\netcoreapp3.1\titanic.csproj.CoreCompileInputs.cache
